@@ -1,4 +1,4 @@
-# TokenSPICE : Token Simulator
+# TokenSPICE v0.1: Token Simulator
 TokenSPICE simulates tokenized ecosystems using an agent-based approach. It can be used to help design, tune, and verify tokenized ecosystems in an overall Token Engineering (TE) flow.
 
 It's currently tuned to model the "Web3 Sustainability Loop", a particular system-level design for tokenized ecosystems that draws on the token supply to fund the community over decades [[ref](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)].  However you can rewire the "netlist" of "agents" to simulate whatever you like.
