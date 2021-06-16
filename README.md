@@ -5,7 +5,7 @@ It's currently tuned to model the "Web3 Sustainability Loop", a particular syste
 
 TokenSPICE was meant to be simple. It definitely makes no claims on "best" for anything. Maybe you'll find it useful.
 
-I'm working on an EVM variant of TokenSPICE; it's at https://github.com/oceanprotocol/tokenspice2.
+All new work is going into TokenSPICE v0.2. It has EVM. It's currently at https://github.com/oceanprotocol/tokenspice2. At some point it will take over _this_ repo.
 
 # A. Quickstart
 
