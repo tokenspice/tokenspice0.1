@@ -15,7 +15,7 @@ _This_ repo is useful if you only want to model Web3 Sustainability Loop, no EVM
 
 ## Get going from scratch: set up environment
 ```
-git clone https://github.com/oceanprotocol/tokenspice.git
+git clone https://github.com/tokenspice/tokenspice.git
 cd tokenspice
 conda deactivate  [[make sure we're not in env't]]
 conda remove --name tokenspiceenv --all [[remove any old env'ts]]
